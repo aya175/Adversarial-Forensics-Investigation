@@ -1,6 +1,6 @@
 # Adversarial-Forensics-Investigation
 
-**Case:** Professor Moriarty's "Digital Cloak" - Adversarial Attack Analysis  
+**Case:** Adversarial Attack Analysis  
 **Dataset:** Caltech-101 (101 object categories)  
 **Model Architecture:** MobileNetV2 (Transfer Learning)
 
