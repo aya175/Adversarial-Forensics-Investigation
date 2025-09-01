@@ -12,10 +12,10 @@ This investigation exposed Professor Moriarty's "Digital Cloak" - a sophisticate
 
 ### Key Findings
 
-- **Model Performance : **Achieved 92.70% validation accuracy on clean data
-- **Attack Effectiveness : **FGSM attacks reduced accuracy from 93.02% to 26.09% (66.93% degradation)
-- **Defense Evaluation : **Adversarial training maintained clean performance while testing robustness
-- **Forensic Analysis : **Visualizations for attack diagnosis
+- Model Performance : Achieved 92.70% validation accuracy on clean data
+- Attack Effectiveness : FGSM attacks reduced accuracy from 93.02% to 26.09% (66.93% degradation)
+- Defense Evaluation : Adversarial training maintained clean performance while testing robustness
+- Forensic Analysis : Visualizations for attack diagnosis
 
 ---
 
